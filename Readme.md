@@ -8,7 +8,7 @@ exploits, Luma and gm9 update news and more news on Custom Firmware (CFW)
 
 <title>Latest News</title>
 
-<h1>Notehax Has Been Patched!!</h1>
+<h2>Notehax Has Been Patched!!</h2>
 Sadly, the newest Homebrew exploit for Nintendo 3ds's that are on version 11.5
 has been patched. The hacking community and Homebrewers alike are upset by the 
 11.6 update patch and are hoping for a newer exploit, so far no news has been 
